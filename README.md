@@ -9,7 +9,7 @@ Each folder in this repository is a self-contained project that focuses on a spe
 ## 📁 Projects Overview
 
 | Project Folder | Description |
-|------------------------|-------------|
+|------------------------------|-------------|
 | [`adding-css`](./adding-css) | My first steps with CSS — applying styles directly to HTML elements. |
 | [`css-box-model`](./css-box-model) | Practicing margin, border, padding, and content layout using the CSS box model. |
 | [`css-colors`](./css-colors) | Exploring color properties, hex codes, and color usage in CSS. |
@@ -17,7 +17,8 @@ Each folder in this repository is a self-contained project that focuses on a spe
 | [`color-vocab-project`](./color-vocab-project) | A creative layout focused on color and vocabulary presentation using HTML & CSS. |
 | [`font-properties`](./font-properties) | Experimenting with font families, weights, sizes, and styles. |
 | [`html-portfolio`](./html-portfolio) | A simple personal portfolio page built using semantic HTML structure. |
-| [`motivational-post`](./motivational-post) | A fun golden retriever-themed motivational meme project with custom styling. |
+| [`motivation-meme-project`](./motivation-meme-project) | A fun golden retriever-themed motivational meme project with custom styling. |
+
 
 > 📦 More projects coming soon as I continue building and learning!
 
