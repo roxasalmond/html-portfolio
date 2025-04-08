@@ -36,6 +36,7 @@ Each folder in this repository is a self-contained project that focuses on a spe
 ---
 
 🚀 How I Use This Repo
+
 This repo is my workspace for learning HTML & CSS by building small projects.
 When working on a specific project, I do the following:
 
