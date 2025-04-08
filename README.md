@@ -35,14 +35,16 @@ Each folder in this repository is a self-contained project that focuses on a spe
 
 ---
 
-## 🚀 How to Use
+🚀 How I Use This Repo
+This repo is my workspace for learning HTML & CSS by building small projects.
+When working on a specific project, I do the following:
 
-To explore a specific project:
-
-```bash
+# Clone the full repo (if I'm setting up on a new machine)
 git clone https://github.com/roxasalmond/web-dev-journey.git
+
+# Navigate into a specific project folder
 cd web-dev-journey/project-folder-name
-Then open index.html in your browser.
+Then I open index.html using Live Server in VS Code for instant previews and updates.
 
 📌 Repo Status
 ✅ Actively growing
